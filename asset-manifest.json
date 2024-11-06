@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/WanderlustHotel/static/css/main.48946179.css",
-    "main.js": "/WanderlustHotel/static/js/main.dd1646ce.js",
+    "main.js": "/WanderlustHotel/static/js/main.57079976.js",
     "static/js/453.eddad45d.chunk.js": "/WanderlustHotel/static/js/453.eddad45d.chunk.js",
     "static/media/RoomSuperTubl.jpg": "/WanderlustHotel/static/media/RoomSuperTubl.9fc3c68979f3d2b04aef.jpg",
     "static/media/RoomTwin.jpg": "/WanderlustHotel/static/media/RoomTwin.c3f64c7b96b004c33169.jpg",
@@ -43,11 +43,11 @@
     "static/media/restaurant5.jpg": "/WanderlustHotel/static/media/restaurant5.f68578c150f579ee6c2b.jpg",
     "index.html": "/WanderlustHotel/index.html",
     "main.48946179.css.map": "/WanderlustHotel/static/css/main.48946179.css.map",
-    "main.dd1646ce.js.map": "/WanderlustHotel/static/js/main.dd1646ce.js.map",
+    "main.57079976.js.map": "/WanderlustHotel/static/js/main.57079976.js.map",
     "453.eddad45d.chunk.js.map": "/WanderlustHotel/static/js/453.eddad45d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.48946179.css",
-    "static/js/main.dd1646ce.js"
+    "static/js/main.57079976.js"
   ]
 }
